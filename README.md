@@ -1,5 +1,6 @@
 ## Prazer, Felix!
 
+
 <div align="center">
   <a href="https://github.com/F-FelixMoreira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=F-FelixMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +20,8 @@
    
   #
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   #
  </div>
 
